@@ -1,4 +1,4 @@
-## Suryatej HM - Data Scientist | GitHub README
+## Suryatej HM - Data Scientist |
 
 👋 Hello, I'm Suryatej H M, a Data Scientist currently pursuing my Master of Science in Data Science at the University at Buffalo. I have hands-on experience as a Data Scientist at Cognovative Technologies and Solutions Private Limited and as an Operations Research Analyst at Rayalaseema Concrete Sleepers Pvt Ltd.
 
