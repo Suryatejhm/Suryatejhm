@@ -15,7 +15,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Suryatejhm&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 # Resume 👇
-![image](https://github.com/Suryatejhm/Suryatejhm/assets/90376475/4db11bc3-8c24-47d8-b104-ddce37036757)
+https://github.com/Suryatejhm/resume/blob/main/Resume_HMS_DS%20.pdf
 
 ### ✍️ Quote of the day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
