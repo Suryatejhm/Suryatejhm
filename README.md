@@ -19,7 +19,6 @@ My passion lies in leveraging data to tackle real-world challenges, and I'm cons
 
 Let's collaborate and make a positive impact with data! Connect with me on GitHub and let's build something amazing together! 😊
 
-*[Note: This bio is written as a README for GitHub]*
 <!---
 Suryatejhm/Suryatejhm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
