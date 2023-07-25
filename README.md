@@ -6,7 +6,7 @@
 - Extensive experience in Data Analysis, Web Scraping, Data Warehousing, Data Wrangling, Exploratory Data Analysis (EDA), Data Modeling & Pipeline, Data Engineering, A/B Testing, NLP, Regression modeling, Data Visualization, Agile Methodologies, and CNN/RNN, Boosting Methods. <br> 
 - Proven track record as a Data Scientist, leading the development and production of ML-based solutions, including a Grain Quality Analyzer System, and optimizing production assembly lines. Strong project management and team leadership skills. <br>
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/suryatej-h-m) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Suryatej-H-M-2) [![Tableau](https://img.shields.io/badge/Tableau-E97627.svg?logo=Tableau&logoColor=white)](https://public.tableau.com/app/profile/suryatej.h.m)
 
 # 💻 Tech Stack:
