@@ -1,7 +1,10 @@
 
 # 💫 About Me:
-Data Scientist | MS in Data Science 🎓<br>Python 🐍 | R 📊 | SQL 🗃️ | Tableau 📊<br>Finance| Passionate about solving real-world challenges<br>
-
+Master of Science in Data Science currently pursuing at the University at Buffalo, The State University of New York, with a strong foundation in Mechanical Engineering from KLE Technological University, India. <br>
+Proficient in an extensive range of programming languages and tools, including Python (NumPy, Pandas, Scikit-learn, TensorFlow, Matplotlib, PyTorch, SparkML, Keras), SQL, R, C, PySpark, Map-Reduce, Hadoop, and Flask. <br>
+Skilled in working with various databases such as MySQL, PostgreSQL, Oracle, and NoSQL, along with expertise in using tools like Jupyter Notebook, Tableau, PowerBI, MS Excel, MS PowerPoint, Google Data Studio, MATLAB, and GitHub. <br>
+Extensive experience in Data Analysis, Web Scraping, Data Warehousing, Data Wrangling, Exploratory Data Analysis (EDA), Data Modeling & Pipeline, Data Engineering, A/B Testing, NLP, Regression modeling, Data Visualization, Agile Methodologies, and CNN/RNN, Boosting Methods. <br> 
+Proven track record as a Data Scientist, leading the development and production of ML-based solutions, including a Grain Quality Analyzer System, and optimizing production assembly lines. Strong project management and team leadership skills. <br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/suryatej-h-m) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Suryatej-H-M-2) 
